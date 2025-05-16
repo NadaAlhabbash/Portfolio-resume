@@ -4,7 +4,7 @@ A clean and professional portfolio website built with HTML and CSS, showcasing m
 
 ## Live Demo
 
-[View Live Portfolio](https://your-deployed-website-link.com)
+[View Live Portfolio](resume256.netlify.app)
 
 ## Technologies
 
